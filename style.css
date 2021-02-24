@@ -207,7 +207,7 @@ textarea {
   }
 
   body{
-      height: 110vh;
+      height: 100vh;
   }
 }
 @media (min-width: 767px) {
